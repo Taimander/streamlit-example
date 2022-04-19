@@ -1,0 +1,10 @@
+name: research
+channels:
+ - psi4
+ - conda-forge
+dependencies:
+ - psi4
+ - numpy
+ - altair
+ - pandas
+ - streamlit
