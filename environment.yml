@@ -9,4 +9,3 @@ dependencies:
    - numpy
    - altair
    - pandas
-   - streamlit
